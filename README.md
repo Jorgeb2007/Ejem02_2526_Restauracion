@@ -1,3 +1,7 @@
+Nombre del propietario del Proyecto: Jorge Baz Gomez.
+
+
+
 # Ejem02_2526_Restauracion
 
 #H1
