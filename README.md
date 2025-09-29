@@ -1,3 +1,5 @@
+Propietario: Jorge Baz
+
 # Ejem02_2526_Restauracion
 
 # H1
